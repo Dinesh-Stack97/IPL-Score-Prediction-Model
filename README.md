@@ -7,7 +7,7 @@
 Deployed at: _https://cricket-score-prediction-model.herokuapp.com/_
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
-Link: _https://github.com/anujvyas/Machine-Learning-Projects/tree/master/First%20Innings%20Score%20Predicton%20-%20IPL_
+Link: _https://github.com/Dinesh-Stack97/IPL-Score-Prediction-Model/_
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
